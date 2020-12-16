@@ -88,8 +88,7 @@ ol, ul {
 .navbar-country .dropdown .dropdown-content a:hover {
   background-color: #ddd;
 }
-
-.show {
+.navbar-country .dropdown .show {
   display: block;
 }
 
